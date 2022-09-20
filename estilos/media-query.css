@@ -12,10 +12,14 @@
     menu > ul > li {
         text-align: center;
         display: inline-block;
-        width: 130px;
+        width: 200px;
     }
 
     main {
+        width: 55vw;
+    }
+
+    img {
         width: 55vw;
     }
 }
