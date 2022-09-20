@@ -10,6 +10,7 @@
     }
 
     menu > ul > li {
+        text-align: center;
         display: inline-block;
         width: 130px;
     }
