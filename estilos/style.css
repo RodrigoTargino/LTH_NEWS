@@ -45,6 +45,7 @@ span#burguer {
 
 menu > ul {
     list-style-type: none ;
+    text-align: center;
 }
 
 menu > ul > li > a {
