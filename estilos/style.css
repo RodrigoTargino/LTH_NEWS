@@ -107,6 +107,14 @@ article > h2 {
     padding-bottom: 30px;
 }
 
+article > h3 {
+    font-size: 1.7em;
+    line-height: 1em;
+    color: rgb(115, 55, 255);
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
+
 article > p {
     text-align: justify;
     margin-bottom: 10px;
