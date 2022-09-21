@@ -64,6 +64,10 @@ menu > ul > li > a:hover {
     background-color: rgba(29, 29, 29, 0.877);
 }
 
+menu > ul > li > a.pg {
+    background-color: rgba(29, 29, 29, 0.877);
+}
+
 form > input{  
     border-radius: 7px;
     border: 1px solid rgb(223, 223, 223); 
